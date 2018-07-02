@@ -1,0 +1,124 @@
+<resources>
+    <string name="app_name">IPROChinatown</string>
+    <string name="title_activity_maps">Map</string>
+
+
+    <string name="change_language">Change Language</string>
+    <string name="chinese">中文</string>
+    <string name="english">English</string>
+    <!-- Start -->
+    <string name="chicago_chinatown">Chicago\nChinatown</string>
+
+    <!-- Main -->
+    <string name="main_tile">The Dream of Chinatown</string>
+    <string name="about_chinatown">About Chinatown</string>
+    <string name="main_audio_story">Chinatown Audible Story</string>
+    <string name="locations">Locations</string>
+    <string name="map">   Map   </string>
+    <string name="community">Community</string>
+    <string name="about_us">About   US</string>
+
+    <!-- About Chinatown -->
+    <string name="about_chinatown_content">Chicago Chinatown was in Clark St. between Adams and Van Buren, due to the limit of Chinese immigration and the increasing of the rent, Chinese were forced to move to present day Chinatown at the intersection of Wentworth Avenue and Cermak Road in 1912. Nowadays, Chinatown has developed to be a big commercial and residential area with amazing architecture. However, this area used to be a multicultural community. At that time, the community residents included Italian, German, Swiss, African, later, it gradually formed a Chinese-dominated community. Therefore, the architectures in Chicago ChinaTown incorporated Chinese elements, but they still show differences from traditional Chinese-style buildings.</string>
+    <!-- Story Text-->
+    <string name="story_text">        If you think Chinatown is only a place for restaurants and delicious food, there is much more you have to learn in order to fully understand this place. Chinatown, Chicago, a small neighborhood located in between Bridgeport and South Loop, is the starting place for most of the Chinese immigrants. For most of the Chinese immigrants, Chinatown is the very beginning of their life in America. They work just as hard as people in other neighborhoods, but their desire for a better future is what others lack. In this small but marvelous community, ordinary people are creating extraordinary stories one after another.
+        Many of you might have heard the story about J. K. Rowling, the author of Harry Potter, chasing her dream of becoming a writer. On the path towards her dream, she was in such a financial crisis that she could not even afford a computer, thus she had to type out every chapter of her books to send to publishers. Many publishers once rejected her books; however, because of her perseverance, she was able to find a publisher that was willing to appreciate her work and allow her to finally publish. Similar to J.K. Rowling, the main character of this story is a Chinese immigrant who is chasing his dream with his perseverance in Chicago Chinatown.
+        Chinatown, Chicago is a place filled with infinite possibilities for Chinese immigrants. For example, some people are able to manage to break through the unseen gap of Chinatown and the outside world, but some have to stay in Chinatown for most of their life by working and hoping for a better life. Seven years ago, a family from China deplaned in O'hare Airport of Chicago. Same as most families, this family had three members: a hardworking father, a kind mother, and a fifth grade son. When this family first arrived in the city of Chicago, with the help of relatives, they were able to find a basement in Chinatown to be their first home. Because of the language barrier, the parents had to work in Chinese restaurants in Chinatown for long hours and low paid, and their son had to go to a neighborhood school for bilingual education. The son always had a dream since he was a child, which was to become an inventor like The Wright Brothers. Because of his engaged and playful attitude, he did not have a hard time making friends in school. Furthermore, his first bilingual teacher was very enthusiastic when helping him with school work and teaching him proper English. However, good times never last long. Two years later, the boy became a seventh grader in the same school; everything seemed to be the same, but he had to say goodbye to his favorite teacher. In his last two years of elementary school, he had a teacher who disagreed with him at everything, it did not matter whether the son was correct or not. One day, the teacher asked the class to write a paper about their dreams and the boy did write about his dream; he expressed his love for innovations and technology, even suggesting his hope to become a positive influence to the other inventors of the world. However, when the teacher read his paper, the teacher did not give a fair grade to him because the teacher disagreed with his dream. Of course, the son was not convinced that he deserved the grade he got, so he asked another teacher to read his paper. When he heard that his paper did not deserve the grade his teacher gave to him, he found himself angry at all the unfairness in society. When he was ready to give up his dream, he realized that the reason for the Chinese immigrants to persevere and work hard: they wish to achieve their dreams and strive for a better future. After his enlightenment, he began to study hard for his dream. Despite the hardships he encountered from his teacher, he never gave up. Later in the year, he was able to exceed the expectations of the teacher and attended one of top high schools in Chicago. Now, the son is ready to graduate from high school. Throughout his high school career, he never stopped working towards his dream because he understands the cruel reality of the Chinatown community: if one is willing to work hard and have perseverance for his or her dream, he or she will be able to become successful; on the other hand, if one gives up easily, he or she would be looked down by others in the neighborhood and can never escape this community.</string>
+
+    <!-- community -->
+    <array name="community">
+        <item>Community Service</item>
+        <item>Hospitality and Tourism</item>
+        <item>Associations and Clubs</item>
+        <item>Chinatown Culture and Traditions</item>
+    </array>
+
+
+    <!-- Locations -->
+    <array name="locations_array">
+        <item>Chinese-American Museum</item>
+        <item>Ping Tom Park</item>
+        <item>ChinaTown Library</item>
+        <item>St. Therese Church</item>
+        <item>Pui Tak Center</item>
+        <item>Chinatown Gate</item>
+        <item>Nine Dragon Wall</item>
+        <item>Chinese Christian Union Church</item>
+        <item>Chinatown Square</item>
+        <item>Kent Young Health Product Center</item>
+        <item>Kam L. Liu Building</item>
+    </array>
+
+    <!-- Location Display -->
+    <string name="hours">Hours:</string>
+    <string name="address">Address:</string>
+    <string name="contact">Contact:</string>
+    <string name="about">About:</string>
+
+    <array name="nine_dragon_wall">
+        <item>All Week</item>
+        <item>158 W Cermak Rd, Chicago, IL 60616</item>
+        <item>N/A</item>
+        <item>The Nine Dragon Wall in Chinatown was inspired by one that can be seen in Beihai Park, to the north of the Forbidden City. It is one of the only three such replicas outside of China. For the Chinese, the dragon is the symbol of power, luck and longevity. And number nine is magical, since it is the highest single-digit number in base ten, thus Chinese believe it stands for completeness and eternity. Among those nine dragons, the yellow dragon in the middle represents the emperor of China who control the highly centralized system of government.</item>
+    </array>
+    <array name="pui_tak_center">
+        <item>Monday: 8 AM - 7 PM\n Tuesday: 8 AM - 7 PM\n Wednesday: 8 AM - 7 PM\n Thursday: 8 AM - 7 PM\n Friday: 8:30 AM - 5 PM\n Saturday: 8 AM - 1 PM\n Closed on Sunday</item>
+        <item>2216 S Wentworth Ave, Chicago, IL 60616</item>
+        <item>(312) 328-1188\nwww.puitak.org/</item>
+        <item>Established in 1893, On Leong Merchants Association was one of the biggest Chinese organization aimed to help with Chinese immigration. In Chinese, On Leong means peaceful. They helped Chinese community settle down in Chicago area and opened Chinese language school for children. In order to support the develop of the association, On Leong Tong invited architects Christian S. Michaelsen and Sigurd A. Rognstad to built the On Leong Merchants Association Building in 1928. However, because of the increasing power of the Chinese gang tongs, the On Leong Merchants Association Building become the center of crime and casino. In 1988 FBI raided the building, shut down all the casinos and took charge of it. In 1993, the Chinese Christian Union Church purchased the former On Leong Merchant Association Building from the federal government and changed its name to Pui Tak Center. In Chinese ‘Pui Tak’ means to build a polite and friendly character or culture. The newly named Pui Tak Center now hosts various religious, community, and educational programs, such as English-as-a-Second-Language courses (ESL).</item>
+    </array>
+    <array name="ping_tom_park">
+        <item>Sunday-Saturday 6 AM-10PM</item>
+        <item>1700 S Wentworth Ave, Chicago, IL 60616</item>
+        <item>(312) 225-3121</item>
+        <item>The park is situated along the south branch of the Chicago River, and the design is based on what the architect had seen in Suzhou. Therefore, it included many elements of Chinese traditional garden, such as the pagoda-style pavilion, four 20-feet-tall columns at the entrance that each etched with Chinese dragons.</item>
+    </array>
+    <array name="st_therese_church">
+        <item>Monday- Saturday 9:30 AM - 4:30 P.M\nClosed on Thursday</item>
+        <item>218 W Alexander St, Chicago, IL 60616</item>
+        <item>(312) 842-6777\nwww.sttheresechinatown.org/e/</item>
+        <item>St. Therese Church incorporated a variety of cultural elements. The unique statues and stained-glass windows came from Italian culture. Since the church is used by Chinese, the parish’s main statement, which located on the keystone above the altar, is written in Chinese, the tablet to honor ancestors also in Chinese. Moreover, there is a pair of Chinese marble lions on both sides of its front door.</item>
+    </array>
+    <array name="chinatown_library">
+        <item>Monday: 12 PM - 8 PM\nTuesday: 10 AM - 6 PM\nWednesday: 12 PM - 8 PM\nThursday: 10 AM - 6 PM\nFriday: 9 AM - 5 PM\nSaturday: 9 AM - 5 PM\nClosed on Sunday</item>
+        <item>2100 S. Wentworth Avenue, Chicago, IL 60616</item>
+        <item>(312) 225-3121\nwww.chipublib.org/locations/20/</item>
+        <item>The library is a significant public landmark for people who live or visit Chicago Chinatown. It was built in 2015 by SOM, which is an internationally renowned architectural design firm in the United States. The stylish library does not seem out of place or strange in Chinatown. In contrast, it brings fashion elements and vitality to Chicago Chinatown. The shading fins are vertically arranged outside the library. Instead of a traditional wall design, a large area of ​​glass curtain wall was used. The interior design of the library was integrated with the concept of “Feng Shui” from traditional Chinese culture. Therefore, the library has the western modern modeling design, also the Chinese traditional design concept.</item>
+    </array>
+    <array name="chinese_american_museum">
+        <item>Tuesday: 9:30 AM - 2 PM\nWednesday: 9:30 AM - 2 PM\nThursday: 9:30 AM - 2 PM\nFriday: 9:30 AM - 2 PM\nSaturday: 10 AM - 5 PM\nSunday: 10 AM - 5 PM\nClosed on Monday</item>
+        <item>238 W 23rd St, Chicago, IL 60616</item>
+        <item>(312) 949-1000\nwww.ccamuseum.org/</item>
+        <item>The Chinese-American Museum of Chicago (CCA museum) intends to showcase the history and heritage of the Chinese immigrants as they moved to the City of Chicago. The museum was built as a warehouse in 1896 and later it was transformed into a house owned by Quong Yick Co.The museum originally opened in Chicago’s Chinatown neighborhood in 2005. Unfortunately, during the year of 2008, the CCA museum suffered a damaging fire. The fire left only the outer brick shell of the building. The cause of the fire is still considered a  mystery. The fire destroyed so many treasures papier-mache dioramas showing cultural stories and folk stories of ancient China . After extensive repairs were made, the museum renovated it's space and officially re-opened in 2010. \n\nThe Museum has several exhibits, including one known as “The Attic,” which is a collection of the saved treasures of local residents, Great Wall to Great Lakes exhibit tells the stories of immigration to the midwest and My Chinatown exhibit that tells the stories of immigration, customs and traditions.The exhibits focus primarily on the exploration and display of traditional Chinese festivals, historical studies of Chinese-American immigrants, and the experiences and stories of the their communities. The museum is administered by a board of directors and board committees who volunteered for the sake of promoting the Chinese culture.\n\nThe museum is a private, non-profit organization, open to the public. It is a member organization of the Chicago Cultural Alliance, which is also a partner of the Illinois Institute of Technology.</item>
+    </array>
+    <array name="chinatowngate">
+        <item>All Week</item>
+        <item>2206 S Wentworth Ave, Chicago, IL 60616</item>
+        <item>N/A</item>
+        <item>It is the gate and symbol of Chicago ChinaTown. It’s colourful, with Sun Yat-sen’s handwriting “The World is Public” in the front, and is engraved with “Propriety, Righteousness, Integrity, and Honour” in the back.\nThe architecture is based on Asian culture, it resembles torli in Japan, torii is a traditional Japanese gate most commonly found at the entrance of or within a Shinto shrine, where it symbolically marks the transition from the mundane to sacred.</item>
+    </array>
+    <array name="chinatown_square">
+        <item>All Week</item>
+        <item>2133 S China Pl, Chicago, IL 60616</item>
+        <item>(312) 808-1745\nwww.chicagochinatown.org/</item>
+        <item>Chinatown Square is a retail and commercial center surrounded by restaurants, Chineses supermarkets, Chinese traditional medicines retails, and other kinds of stores that can completely meet the needs of people who lives in Chinatown or visit. The heart of the square includes the Pan Asian Cultural Center surrounded by twelve bronze zodiac figures, and framed by the greatest Chinese inventions. There is a relationship between human and the 12 zodiacal animals for Chinese. It is believed that the years represented by the animals affect the characters of people.</item>
+    </array>
+    <array name="chinese_christian_union_church">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </array>
+    <array name="kent_center">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </array>
+    <array name="kam_l_liu_building">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </array>
+</resources>

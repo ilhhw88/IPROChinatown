@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:scaleType="centerCrop"
+    tools:context=".StartActivity">
+
+
+
+    <ImageView
+        android:id="@+id/img_main"
+        android:layout_width="320dp"
+        android:layout_height="240dp"
+        android:src="@drawable/chinatown"
+        android:scaleType="fitCenter"
+        android:layout_marginTop="50dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"/>
+
+
+    <TextView
+        android:id="@+id/btn_story"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/main_audio_story"
+        android:textColor="#ffd600"
+        android:textSize="18sp"
+        android:paddingTop="10dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/btn_about_chinatown" />
+
+    <TextView
+        android:id="@+id/btn_about_chinatown"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/about_chinatown"
+        android:textColor="#ffd600"
+        android:textSize="18sp"
+        android:paddingTop="50dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/img_main" />
+
+
+    <Button
+        android:id="@+id/btn_location"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/locations"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.8"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintHorizontal_bias="0.2" />
+
+    <Button
+        android:id="@+id/btn_map"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/map"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.8"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintHorizontal_bias="0.8" />
+
+    <Button
+        android:id="@+id/btn_community"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/community"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.9"
+        app:layout_constraintLeft_toLeftOf="@id/btn_location" />
+
+    <Button
+        android:id="@+id/btn_about_us"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/about_us"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.9"
+        app:layout_constraintLeft_toLeftOf="@id/btn_map" />
+
+</android.support.constraint.ConstraintLayout>

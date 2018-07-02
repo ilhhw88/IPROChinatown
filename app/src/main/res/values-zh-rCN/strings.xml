@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="change_language">更改语言</string>
+    <string name="chinese">中文</string>
+    <string name="english">English</string>
+    <array name="languages">
+        <item>中文</item>
+        <item>English</item>
+    </array>
+
+    <!-- Start -->
+    <string name="chicago_chinatown">芝加哥\n中国城</string>
+
+    <!-- Main -->
+    <string name="main_tile">The Dream of Chinatown</string>
+    <string name="about_chinatown">关于唐人街</string>
+    <string name="main_audio_story">中国城有声故事</string>
+    <string name="locations">地点</string>
+    <string name="map">地图</string>
+    <string name="community">社区</string>
+    <string name="about_us">关于</string>
+
+    <!-- About Chinatown -->
+    <string name="about_chinatown_content">芝加哥唐人街原来位于亚当斯和范布伦之间的克拉克街，由于中国移民的限制和租金的上涨，1912年，中国人被迫搬到在温特沃斯大街和塞尔马克路交汇处，形成现在的唐人街。如今，唐人街已经发展成为一个拥有惊人建筑的大型商业和住宅区。然而，芝加哥唐人街曾经是一个多文化社区。当时，社区居民包括意大利人，德国人，瑞士人，非洲人，后来逐渐形成了以华人为主的社区。因此，芝加哥中国城的建筑融合了中国元素，但仍与传统中式建筑不同。</string>
+    <!-- Story Text-->
+    <string name="story_text">        If you think Chinatown is only a place for restaurants and delicious food, there is much more you have to learn in order to fully understand this place. Chinatown, Chicago, a small neighborhood located in between Bridgeport and South Loop, is the starting place for most of the Chinese immigrants. For most of the Chinese immigrants, Chinatown is the very beginning of their life in America. They work just as hard as people in other neighborhoods, but their desire for a better future is what others lack. In this small but marvelous community, ordinary people are creating extraordinary stories one after another.
+        Many of you might have heard the story about J. K. Rowling, the author of Harry Potter, chasing her dream of becoming a writer. On the path towards her dream, she was in such a financial crisis that she could not even afford a computer, thus she had to type out every chapter of her books to send to publishers. Many publishers once rejected her books; however, because of her perseverance, she was able to find a publisher that was willing to appreciate her work and allow her to finally publish. Similar to J.K. Rowling, the main character of this story is a Chinese immigrant who is chasing his dream with his perseverance in Chicago Chinatown.
+        Chinatown, Chicago is a place filled with infinite possibilities for Chinese immigrants. For example, some people are able to manage to break through the unseen gap of Chinatown and the outside world, but some have to stay in Chinatown for most of their life by working and hoping for a better life. Seven years ago, a family from China deplaned in O'hare Airport of Chicago. Same as most families, this family had three members: a hardworking father, a kind mother, and a fifth grade son. When this family first arrived in the city of Chicago, with the help of relatives, they were able to find a basement in Chinatown to be their first home. Because of the language barrier, the parents had to work in Chinese restaurants in Chinatown for long hours and low paid, and their son had to go to a neighborhood school for bilingual education. The son always had a dream since he was a child, which was to become an inventor like The Wright Brothers. Because of his engaged and playful attitude, he did not have a hard time making friends in school. Furthermore, his first bilingual teacher was very enthusiastic when helping him with school work and teaching him proper English. However, good times never last long. Two years later, the boy became a seventh grader in the same school; everything seemed to be the same, but he had to say goodbye to his favorite teacher. In his last two years of elementary school, he had a teacher who disagreed with him at everything, it did not matter whether the son was correct or not. One day, the teacher asked the class to write a paper about their dreams and the boy did write about his dream; he expressed his love for innovations and technology, even suggesting his hope to become a positive influence to the other inventors of the world. However, when the teacher read his paper, the teacher did not give a fair grade to him because the teacher disagreed with his dream. Of course, the son was not convinced that he deserved the grade he got, so he asked another teacher to read his paper. When he heard that his paper did not deserve the grade his teacher gave to him, he found himself angry at all the unfairness in society. When he was ready to give up his dream, he realized that the reason for the Chinese immigrants to persevere and work hard: they wish to achieve their dreams and strive for a better future. After his enlightenment, he began to study hard for his dream. Despite the hardships he encountered from his teacher, he never gave up. Later in the year, he was able to exceed the expectations of the teacher and attended one of top high schools in Chicago. Now, the son is ready to graduate from high school. Throughout his high school career, he never stopped working towards his dream because he understands the cruel reality of the Chinatown community: if one is willing to work hard and have perseverance for his or her dream, he or she will be able to become successful; on the other hand, if one gives up easily, he or she would be looked down by others in the neighborhood and can never escape this community.</string>
+
+    <!-- community -->
+    <array name="community">
+        <item>Community Service</item>
+        <item>Hospitality and Tourism</item>
+        <item>Associations and Clubs</item>
+        <item>Chinatown Culture and Traditions</item>
+    </array>
+
+    <!-- Locations -->
+    <array name="locations_array">
+        <item>美洲华裔博物馆</item>
+        <item>谭继平纪念公园</item>
+        <item>芝加哥公共图书馆，唐人街分馆</item>
+        <item>圣德力教堂</item>
+        <item>培德中心</item>
+        <item>唐人街大门</item>
+        <item>九龙壁</item>
+        <item>Chinese Christian Union Church</item>
+        <item>唐人街广场</item>
+        <item>Kent Young Health Product Center</item>
+        <item>廖锦良大楼</item>
+    </array>
+
+    <!-- Location Display -->
+    <string name="hours">Hours:</string>
+    <string name="address">Address:</string>
+    <string name="contact">Contact:</string>
+    <string name="about">About:</string>
+
+    <array name="nine_dragon_wall">
+        <item>每天</item>
+        <item>158 W Cermak Rd, Chicago, IL 60616</item>
+        <item>N/A</item>
+        <item>唐人街的九龙壁的灵感来自故宫北边的北海公园。它是除中国以外仅有的三个复制品之一。对中国人来说，龙是力量、运气和长寿的象征。而九是一个神奇的数字，因为九是十进制的最高个位数字，因此中国人认为它代表完整和永恒。在这九条龙当中，中间的黄龙代表了控制高度集中的政府系统的中国皇帝。</item>
+    </array>
+    <array name="pui_tak_center">
+        <item>星期一: 8 AM - 7 PM\n星期二: 8 AM - 7 PM\n星期三: 8 AM - 7 PM\n星期四: 8 AM - 7 PM\n星期五: 8:30 AM - 5 PM\n星期六: 8 AM - 1 PM\n星期日关闭</item>
+        <item>2216 S Wentworth Ave, Chicago, IL 60616</item>
+        <item>(312) 328-1188\nwww.puitak.org/</item>
+        <item>1893年建立的梁商协会是中国最大的一个致力于帮助中国移民的组织。在中文中，安良的意思是和平。他们帮助华人社区在芝加哥地区定居，并为儿童开办了中文学校。为了支持协会的发展，安良堂邀请建筑师Christian S. Michaelsen 和 Sigurd A. Rognstad 在1928年建造了梁家商协会大楼。然而，由于中国帮派火钳的力量日益增强，梁家商协会大楼成为犯罪和赌场的中心。1988年，联邦调查局袭击了这座大楼，关闭了所有赌场并负责处理。 1993年，中国基督教联合会从联邦政府购买了前安良商会协会大楼，并更名为培德中心。在中文里 “培德” 意味着建立一个礼貌友好的人格或文化。新命名的培德中心现在举办各种宗教、社区和教育课程，如英语作为第二语言课程（ESL）。</item>
+    </array>
+    <array name="ping_tom_park">
+        <item>每天 6 AM-10PM</item>
+        <item>1700 S Wentworth Ave, Chicago, IL 60616</item>
+        <item>(312) 225-3121</item>
+        <item>该公园位于芝加哥河南岸，设计是基于设计师在苏州所看到的。因此，它包括了许多中国传统园林的元素，比如宝塔风格的亭子，入口处有四个20英尺高、刻着中国龙的柱子。</item>
+    </array>
+    <array name="st_therese_church">
+        <item>周一到周六 9:30 AM - 4:30 PM\n星期四关闭</item>
+        <item>218 W Alexander St, Chicago, IL 60616</item>
+        <item>(312) 842-6777\nwww.sttheresechinatown.org/e/</item>
+        <item>圣德力教堂融合了各种文化元素。独特的雕像和彩色玻璃窗来自意大利文化。由于教堂被中国人使用，在祭坛上方的基石上，教堂的主要陈述是用中文书写的，也有用汉字书写的祖先纪念碑。而且，它的前门两侧有一对中国大理石狮子。</item>
+    </array>
+    <array name="chinatown_library">
+        <item>星期一: 12 PM - 8 PM\n星期二: 10 AM - 6 PM\n星期三: 12 PM - 8 PM\n星期四: 10 AM - 6 PM\n星期五: 9 AM - 5 PM\n星期六: 9 AM - 5 PM\n星期日关闭</item>
+        <item>2100 S. Wentworth Avenue, Chicago, IL 60616</item>
+        <item>(312) 225-3121\nwww.chipublib.org/locations/20/</item>
+        <item>对居住在唐人街或者是游客来说，图书馆是一个重要的公共地标。它是2015年由SOM建造的，SOM是在国际上享有盛誉的美国建筑设计公司。在中国城，时尚的图书馆并没有不合时宜或令人感到奇怪。相反，它给芝加哥唐人街带来了时尚元素和活力。图书馆外面垂直排列着遮阳板，与传统的墙体设计不同，图书馆使用了大面积的玻璃幕墙。图书馆的内部设计与中国传统文化的风水概念相结合。因此，图书馆有西方现代的造型设计，也有中国传统的设计理念。</item>
+    </array>
+    <array name="chinese_american_museum">
+        <item>周二:  9:30 AM - 2 PM\n周三:  9:30 AM - 2 PM\n周四:  9:30 AM - 2 PM\n周五:  9:30 AM - 2 PM\n星期六: 10 AM - 5PM\n星期日: 10 AM - 5PM\n星期一休息</item>
+        <item>238 W 23rd St, Chicago, IL 60616</item>
+        <item>(312) 949-1000\nwww.ccamuseum.org/</item>
+        <item>芝加哥华裔美国人博物馆（CCA博物馆）打算展示中国移民迁往芝加哥市时的历史和遗产。该博物馆所在的地点在1896年还是一个仓库，后来变成Quong Yick Co.私人的房屋。该博物馆最初于2005年在芝加哥唐人街附近对外开放。不幸的是，在2008年，CCA博物馆遭受了毁灭性的火灾。只有建筑物的外部砖块得以保留。火灾的原因仍然是一个谜。这场大火毁坏了很多珍贵的纸型立体装饰，这些装饰展示了中国古代的文化故事和民间故事。经过一场大修，博物馆重新整修了内部，并于2010年正式重新开放。 \n\n这个博物馆有几个展品，其中一个被称为“The Attic”，这是当地居民保存的珍宝的集合，“长城到五大湖”展览讲述了移民到中西部的故事，“我的中国城”展览讲述了移民，习俗和传统文化。展览主要集中在中国传统节日的探索和展示，华裔移民史和他们生活社区的故事。该博物馆由董事会和董事会管理，他们为促进中国文化而自愿参与。 \n\n该博物馆是一个向公众开放的私人非营利组织。它是芝加哥文化联盟的成员组织，也是伊利诺伊理工学院的合作伙伴。</item>
+    </array>
+    <array name="chinatowngate">
+        <item>每天</item>
+        <item>2206 S Wentworth Ave, Chicago, IL 60616</item>
+        <item>N/A</item>
+        <item>它是芝加哥唐人街的大门和标志。它颜色鲜明，在正面刻有孙中山手书的“天下为公”，背面刻有“礼义廉耻”。\n\n这座建筑以亚洲文化为基础，与日本的神社入口处的牌坊（鳥居）相似，鳥居是传统的日本门，最常见于日本神社的入口处或内部。在这里象征性地标志着唐人街从世俗到神圣的转变。</item>
+    </array>
+    <array name="chinatown_square">
+        <item>每天</item>
+        <item>2133 S China Pl, Chicago, IL 60616</item>
+        <item>(312) 808-1745\nwww.chicagochinatown.org/</item>
+        <item>唐人街广场是一个零售和商业中心，周围有餐馆、中国超市、中药零售店和其他类型的商店，完全可以满足居住在这里的人或者是游客们的需求。广场的中心地带有泛亚洲文化中心，它的周围有着中国最伟大的发明 -- 十二个青铜生肖。中国人认为人类与十二生肖动物之间有一种关系。据说，动物所代表的年份会对人类的性格产生影响。</item>
+    </array>
+    <array name="chinese_christian_union_church">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </array>
+    <array name="kent_center">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </array>
+    <array name="kam_l_liu_building">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </array>
+
+</resources>

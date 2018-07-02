@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:scaleType="centerCrop"
+    android:weightSum="2"
+    android:orientation="vertical"
+    tools:context=".AboutUsActivity">
+
+    <android.support.constraint.ConstraintLayout
+        android:id="@+id/locations_action_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="12dp">
+
+        <ImageView
+            android:id="@+id/locations_back"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:background="@drawable/icon_back"
+            app:layout_constraintLeft_toLeftOf="parent" />
+
+        <TextView
+            android:id="@+id/location_name"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:textColor="#ffd600"
+            android:textSize="24sp"
+            android:text="@string/about_us"
+            app:layout_constraintLeft_toRightOf="@id/locations_back"
+            android:layout_marginLeft="8dp"/>
+
+        <ImageView
+            android:id="@+id/locations_language"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:background="@drawable/icon_language"
+            android:layout_marginRight="5dp"
+            app:layout_constraintRight_toRightOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+
+    <ImageView
+        android:id="@+id/location_img"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:scaleType="fitCenter"
+        android:layout_weight="2"
+        app:layout_constraintTop_toBottomOf="@id/locations_action_bar"
+        android:src="@drawable/iitcamp" />
+
+    <LinearLayout
+        android:id="@+id/location_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#4d000000"
+        android:scrollbars="vertical"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="10dp"
+        android:singleLine="false"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:layout_weight="0"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/faq"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:textColor="#ffd600"
+            android:padding="8dp"
+            android:text="FAQ"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:textColor="#ffd600"
+            android:padding="8dp"
+            android:text="Contact Us:" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:textColor="#ffffff"
+            android:paddingLeft="32dp"
+            android:text="IPro 497-313 : iitchinatown@gmail.com\nChinese-American Museum:www.ccamuseum.org/"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:textColor="#ffd600"
+            android:padding="8dp"
+            android:text="Find out more about Chinatown at"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:textColor="#ffffff"
+            android:paddingLeft="32dp"
+            android:text="tech-team-chinatown-ipro-497-313.github.io/TECH-team/"/>
+    </LinearLayout>
+
+</LinearLayout>

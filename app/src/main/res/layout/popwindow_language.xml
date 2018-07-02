@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#00000000">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#80000000"
+        android:orientation="vertical"
+        android:paddingBottom="2dp"
+        android:layout_alignParentRight="true">
+
+        <TextView
+            android:id="@+id/pop_english"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:padding="5dp"
+            android:textColor="#ffd600"
+            android:text="@string/english"/>
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="8dp" />
+
+        <TextView
+            android:id="@+id/pop_chinese"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:padding="5dp"
+            android:textColor="#ffd600"
+            android:text="@string/chinese"/>
+
+    </LinearLayout>
+</RelativeLayout>
